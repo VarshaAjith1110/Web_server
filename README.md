@@ -29,8 +29,8 @@ content = """
 </head>
 <body>
 <h1>varsha ajith</h1>
-<h2>21004552 </h2>
-<h3>Dept.:Artificial Intelligence and Data Science</h3>
+<h2>21500246 </h2>
+<h3>department AI&DS</h3>
 </body>
 </html>
 """
