@@ -50,3 +50,4 @@ httpd.serve_forever()
 ![GitHub Logo](web_var.png)
 
 ## RESULT:
+A simple webserver is created.
